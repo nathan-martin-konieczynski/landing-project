@@ -1,0 +1,13 @@
+.main {
+	padding:10px 0px;
+	border-radius:6px;
+	letter-spacing:4px ;
+	box-shadow:4px 4px 7px;
+	width: 950px;
+  margin: 40px auto;
+  background-color: white;
+
+	}
+.text-center {
+  text-align: center;
+  }

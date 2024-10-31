@@ -1,0 +1,26 @@
+@import  url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import  url("parts/container.css");
+@import  url("parts/avatar.css");
+@import  url("parts/button.css");
+@import  url("parts/center-text.css");
+@import  url("parts/banner.css");
+@import  url("parts/card.css");
+body {
+    margin: 0px;
+    background-color: #646464;
+	}
+p {
+	font-size: 17px;
+	font-family: "Lato", serif;
+	}
+h1 {
+	font-size: 38px;
+	font-family: "Lato", serif;
+	}
+h2 {
+	font-size: 28px;
+	}
+a {
+	text-decoration:none;
+	font-family: "Lato", serif;
+
